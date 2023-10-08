@@ -1,16 +1,10 @@
 # bitmap_controller
 
-A new Flutter project.
+## 介紹
+* 嵌入式期末專題
+* 利用手機APP控制小方塊做動畫
+* 可以多達15張圖片來做動畫
+* 可以指定 **循環播放** 以及 **來回播放**
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 原理
+![](./README_IMG/1.png)
